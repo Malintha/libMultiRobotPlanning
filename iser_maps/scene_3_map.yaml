@@ -55,5 +55,5 @@ agents:
     start: [5, 15]
     goal: [36, 17]
   - name: agent3
-    start: [25, 5]
+    start: [20, 0]
     goal: [36, 15]
