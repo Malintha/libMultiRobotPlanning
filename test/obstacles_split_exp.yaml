@@ -1,0 +1,24 @@
+# split experiment
+# 12 robots
+map:
+  dimensions: [6, 6]
+  obstacles:
+    - [2, 2]
+    - [2, 3]
+    - [3, 2]
+    - [3, 3]
+    - [2, 5]
+    - [2, 6]
+    - [3, 5]
+    - [3, 6]
+
+agents:
+  - name: agent0
+    start: [1, 1]
+    goal: [5, 3]
+  - name: agent1
+    start: [1, 2]
+    goal: [5, 3]
+  # - name: agent2
+  #   start: [1, 3]
+  #   goal: [5, 3]
